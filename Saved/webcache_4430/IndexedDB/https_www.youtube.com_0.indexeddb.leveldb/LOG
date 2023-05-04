@@ -1,0 +1,6 @@
+2023/05/04-16:17:11.207 4cc4 Creating DB D:/filo_personale/Tesi/Poppy_Git/Poppy/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/05/04-16:17:11.596 4cc4 Reusing MANIFEST D:/filo_personale/Tesi/Poppy_Git/Poppy/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/04-16:21:13.809 4ff8 Level-0 table #5: started
+2023/05/04-16:21:14.544 4ff8 Level-0 table #5: 8481 bytes OK
+2023/05/04-16:21:14.581 4ff8 Delete type=0 #3
+2023/05/04-16:21:14.582 4ff8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
